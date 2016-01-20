@@ -1,4 +1,4 @@
-# frontincg-2016
+# Frontincg-2016
 Hotsite para a edição de 2016
 
 ---
@@ -13,9 +13,6 @@ Esse repositório é um fork do projeto [conf-boilerplate](https://github.com/br
 * [Estrutura](#estrutura)
 * [Customização](#customizao)
 * [Deploy](#deploy)
-* [Showcase](#showcase)
-* [Contribuindo](#contribuindo)
-* [Quem está por trás disso?](#quem-est-por-trs-disso)
 * [Licença](#licena)
 
 ## Como funciona?
