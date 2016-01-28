@@ -24,6 +24,7 @@
 
   <!-- STYLES -->
   <link rel="stylesheet" type="text/css" href="<%= @getTheme() %>/css/main.css">
+  <link rel="stylesheet" type="text/css" href="bootstrap/bootstrap.min.css">
   <!-- / STYLES -->
 
 </head>
@@ -31,7 +32,6 @@
 
   <div class="global">
 
-    <%-@partial('nav.html.eco', @)%>
     <%-@partial('header.html.eco', @)%>
 
     <!-- CONTENT -->
@@ -56,6 +56,8 @@
   <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
   <script src="<%= @getTheme() %>/js/main.js"></script>
   <% end %>
+
+  <script src="bootstrap/bootstrap.min.js"></script>
 
   <!-- GOOGLE ANALYTICS -->
   <script type="text/javascript">

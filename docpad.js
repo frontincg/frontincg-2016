@@ -7,7 +7,7 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Front in CG",
+      name: "Front in CG 2",
       description: "O melhor evento sobre tecnologia front-end do MS",
       date: "November 15",
       // If your event is free, just comment this line
@@ -32,8 +32,8 @@ module.exports = {
 
     // Site info
     site: {
-      theme: "yellow-swan",
-      url: "http://braziljs.github.io/conf-boilerplate/",
+      theme: "slow-down",
+      url: "frontincg.github.io/frontincg-2016",
       googleanalytics: "UA-33656081-1"
     },
 
