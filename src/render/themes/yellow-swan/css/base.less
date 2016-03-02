@@ -1,4 +1,5 @@
 @import "_mixins.less";
+@import "_variables.less";
 
 /* =============================================================================
    MAIN LAYOUT
@@ -37,16 +38,24 @@ p {
    NAVIGATION
    ========================================================================== */
 nav {
-  padding:15px 0;
+  padding:25px 0;
   position: fixed;
   width: 100%;
   z-index: 10;
+  border-bottom: 5px inset #FD971F;
+  .logo {float: left;}
+  .nav-items {float: right;}
 }
 .nav-item {
   display: inline-block;
-  margin-right:15px;
+  margin-right:55px;
+  line-height: 25px;
 }
-.nav-link {font-size: 1.4em;}
+.nav-link {
+  color: #272822;
+  font-size: 1.2em;
+  text-transform: uppercase;
+}
 
 /* =============================================================================
    HEADER

@@ -1,4 +1,4 @@
-# frontincg-2016
+# Frontincg-2016
 Hotsite para a edição de 2016
 
 ---
@@ -13,9 +13,6 @@ Esse repositório é um fork do projeto [conf-boilerplate](https://github.com/br
 * [Estrutura](#estrutura)
 * [Customização](#customizao)
 * [Deploy](#deploy)
-* [Showcase](#showcase)
-* [Contribuindo](#contribuindo)
-* [Quem está por trás disso?](#quem-est-por-trs-disso)
 * [Licença](#licena)
 
 ## Como funciona?
@@ -253,58 +250,6 @@ Se você prefere utilizar seu próprio servidor para hospedar o site:
 * Rode `npm run generate` na raíz do projeto.
 
 Esse comando irá gerar uma pasta `out` contendo apenas arquivos estáticos, depois é só fazer o upload do conteúdo dessa pasta para sua hospedagem.
-
-## Showcase
-
-Confira os eventos que usaram esse projeto como pontapé inicial:
-
-* [FrontInterior](http://frontinterior.com.br)
-* [Random Hacks of Kindness](http://www.myskills.com.br/rhok-recife/)
-* [yoLab](http://yodojo.github.com/yoLab/) ([source code](https://github.com/yodojo/yoLab))
-* [Payphone Hackday](http://payphonehackday.com/) ([source code](https://github.com/octanebaby/conf-boilerplate))
-* [RSJS](http://rsjs.org/) ([source code](https://github.com/braziljs/rsjs))
-* [Front in BH](http://frontinbh.com.br/) ([source code](https://github.com/braziljs/front-in-bh))
-* [Front in Rio](http://frontinrio.com.br/)
-* [Front in Bahia](http://frontinbahia.com.br/)
-* [Dev in Company BH](http://devincompanybh.github.io/setembro-2013/) ([source code](https://github.com/devincompanybh/setembro-2013/))
-* [TEDx Recife](http://tedxrecife.com.br/)
-* [DevFest](http://www.devfest.com.br/2013/)
-* [DevFest Sul](http://www.devfestsul.com.br/)
-* [Front in Floripa](http://frontinfloripa.com.br/)
-* [Front in POA](http://frontinpoa.com.br/) ([source code](https://github.com/braziljs/front-in-poa))
-* [mloc.js](http://mloc-js.com/2014/)
-* [Craft Conf](http://craft-conf.com/2014/) ([source code](https://github.com/ustream/craftconf))
-* [Stretch Conference](http://stretchcon.com/2013/)
-* [Meet.us()](http://meetus.github.io/) ([source code](https://github.com/meetus/meetus.github.io))
-* [MPI LAMEC 2014](http://mpilamec.com/)
-* [Front in Cuiabá](http://frontincuiaba.com.br/) ([source code](https://github.com/braziljs/front-in-cuiaba))
-* [JS Day - Feira de Santana](http://jsday.com.br/) ([source code](https://github.com/devfsa/jsday))
-* [V SAICC](http://saicc.furg.br/)
-* [Dia do Codigo](http://diadocodigo.org/)
-
-Criou um site usando o ConfBoilerplate? Nos avise =D
-
-## Forks
-
-* [Versão em Ruby do ConfBoilerplate usando Jekyll por Mauro George](https://github.com/maurogeorge/conf_boilerplate_ruby)
-
-## Contribuindo
-
-Se quiser enviar um pull request, por favor faça-o na branch `dev`.
-
-* `master` contém a versão estável disso.
-* `dev` contém as funcionalidades que estão em desenvolvimento.
-
-## Quem está por trás disso?
-
-Nós somos um grupo de desenvolvedores que passaram por muitas dificuldades organizando conferências pelo Brasil e agora queremos ajudar outras pessoas nesse árduo trabalho.
-
-**Criado por**:
-
-* [Zeno Rocha](http://github.com/zenorocha)
-* [Bernard De Luna](http://github.com/bernarddeluna)
-
-Agradecimento especial a todos os membros da comunidade pelos feedbacks e contribuições.
 
 ## Licença
 
